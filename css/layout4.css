@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.all {
+    background-color: rgb(238, 238, 238);
+    margin: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+
+.header {
+    color: royalblue;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+    padding: 10px;
+}
+
+input {
+    width: 95%;
+    margin: 10px;
+    padding: 10px;
+    font-size: 15px;
+  border: 1px solid lightgray;
+}
+
+.email input {
+    margin-left: 0;
+}
+
+/* input[value] {
+    font-size: 15px;
+    color: gray;
+} */
+
+.all .send {
+    text-align: center;
+}
+
+.all button {
+    border-style: none;
+    padding: 10px 15px;
+    margin: 30px auto;
+    background-color: royalblue;
+    color: white;
+    font-size: 15px;    
+}
+
+.all button:hover {
+    background-color: lightgray;
+    color: black;
+    cursor: pointer;
+}
+
+.all i {
+    float: left;
+    overflow: hidden;
+    font-size: 35px;    
+    color: royalblue;
+    margin: 10px 10px;
+}
+
+
+
+
+
+
+
+
+
